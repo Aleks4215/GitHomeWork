@@ -10,6 +10,7 @@ import UIKit
 class ViewController: UIViewController {
     
     let one = 1
+    let two = 2
     
 
     override func viewDidLoad() {
